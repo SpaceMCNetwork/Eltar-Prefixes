@@ -1,0 +1,60 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/owner.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": ["阿"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/admin.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": ["贝"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/team.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": ["色"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/hadas.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": ["德"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/demonios.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": ["饿"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/elfos.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": ["艾"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/bestias.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": ["弗"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/eltarianos.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": ["日"]
+    }
+  ]
+}
